@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Docker" >
+    <test name="Google">
+        <parameter name = "myName" value="manisha"/>
+         <classes>
+             <class name="testcase.GoogleHomeTest"/>
+             
+          </classes>
+     </test> <!-- Test -->
+     <test name="Google5">
+        <parameter name = "myName" value="manisha"/>
+         <classes>
+             <class name="testcase.GoogleHomeTest"/>
+             
+          </classes>
+     </test> 
+     <test name="Google1">
+        <parameter name = "myName" value="manisha"/>
+         <classes>
+             <class name="testcase.GoogleHomeTest"/>
+             
+          </classes>
+     </test> 
+     <test name="Google2">
+        <parameter name = "myName" value="manisha"/>
+         <classes>
+             <class name="testcase.GoogleHomeTest"/>
+             
+          </classes>
+     </test> 
+     <test name="Google3">
+        <parameter name = "myName" value="manisha"/>
+         <classes>
+             <class name="testcase.GoogleHomeTest"/>
+             
+          </classes>
+     </test> 
+</suite> <!-- Suite -->

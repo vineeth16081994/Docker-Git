@@ -1,0 +1,4 @@
+# Created at 2023-03-24T22:09:43.818
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Docker\GoogleAutomation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
